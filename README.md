@@ -4,9 +4,9 @@
 
 ### Мои контакты
 
-Тел. +7 (912) 368-99-14 
-email: vtriber@gmail.com
-Telegram: @vtriber
+- Тел. +7 (912) 368-99-14 
+- email: vtriber@gmail.com
+- Telegram: @vtriber
 
 ### Резюме
 
