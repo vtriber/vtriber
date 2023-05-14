@@ -4,35 +4,31 @@
 
 ### Мой стек
 
-Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio, Charmander, PostgreSQL, Apache, Nginx, Git, REST, Postfix, KVM, Docker, Docker-compose, Celery, Redis
+Linux, Windows, Bash, Python, Django Framework, Flask, Httpio, Asyncio, PostgreSQL, Nginx, Git, REST, Docker, Docker-compose
 
 ### Примеры моих работ:
 
-- Django, drf, docker, github actions, shell (https://github.com/netology-code/netomerch-backend)
+- [Домашние работы по курсу Django](https://github.com/vtriber/dj-homeworks)
 
-- FastAPI, Postgresql, Docker, Docker-compose (https://github.com/mikepro-alfamail-ru/flydata)
+- [Flask, Docker, Docker-compose.](https://github.com/mikepro-alfamail-ru/webpy-6-homeworks)
 
-- Django, drf (https://github.com/mikepro-alfamail-ru/domclick)
+- [Работа по курсу SQL и получение данных](https://github.com/vtriber/PySQL)
 
-- Python. [Репозиторий с дипломной работой](https://github.com/mikepro-alfamail-ru/py-39_diplom)
+- [Работа с API Vkontakte](https://github.com/vtriber/API_VK)
 
-- Django. [Домашние работы по курсу Django](https://github.com/mikepro-alfamail-ru/dj-18-hw)
-
-- Flask, Asyncio, Aiohttp, Docker, Docker-compose. [Примеры в репозитории](https://github.com/mikepro-alfamail-ru/webpy-6-homeworks)
-
-- SQL (postgres, mysql). [Итоговая работа по курсу SQL и получение данных](https://github.com/mikepro-alfamail-ru/sql-29-final)
+- [Приер работы в команде, разработка чат бота знакомств в ВК](https://github.com/vtriber/group_course2)
 
 ### Мои сертификаты:
 
-- [Основы языка программирования Python](https://github.com/vtriber/vtriber/tree/main/certificates/python.pdf)
+- [Основы языка программирования Python](https://github.com/vtriber/vtriber/blob/main/certificates/python.pdf)
 
-- [Профессиональная работа с Python](https://github.com/vtriber/vtriber/tree/main/certificates/pythonpro.pdf)
+- [Профессиональная работа с Python](https://github.com/vtriber/vtriber/blob/main/certificates/pythonpro.pdf)
 
-- [Django, создание функциональных веб-приложений](https://github.com/vtriber/vtriber/tree/main/certificates/django.pdf)
+- [Django, создание функциональных веб-приложений](https://github.com/vtriber/vtriber/blob/main/certificates/django.pdf)
 
-- [Python в web-разработке](https://github.com/vtriber/vtriber/tree/main/certificates/pyweb.pdf)
+- [Python в web-разработке](https://github.com/vtriber/vtriber/blob/main/certificates/pyweb.pdf)
 
-- [SQL базы данных для разработчиков](https://github.com/vtriber/vtriber/tree/main/certificates/sql.pdf)
+- [SQL базы данных для разработчиков](https://github.com/vtriber/vtriber/blob/main/certificates/sql.pdf)
 
-- [GIT - система контроля версий](https://github.com/vtriber/vtriber/tree/main/certificates/git.pdf)
+- [GIT - система контроля версий](https://github.com/vtriber/vtriber/blob/main/certificates/git.pdf)
 
