@@ -24,15 +24,15 @@ Linux, Windows, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio,
 
 ### Мои сертификаты:
 
-- [Основы языка программирования Python](https://github.com/vtriber/vtriber/certificates/python.pdf)
+- [Основы языка программирования Python](https://github.com/vtriber/vtriber/tree/main/certificates/python.pdf)
 
-- [Профессиональная работа с Python](https://github.com/vtriber/vtriber/certificates/pythonpro.pdf)
+- [Профессиональная работа с Python](https://github.com/vtriber/vtriber/tree/main/certificates/pythonpro.pdf)
 
-- [Django, создание функциональных веб-приложений](https://github.com/vtriber/vtriber/certificates/django.pdf)
+- [Django, создание функциональных веб-приложений](https://github.com/vtriber/vtriber/tree/main/certificates/django.pdf)
 
-- [Python в web-разработке](https://github.com/vtriber/vtriber/certificates/pyweb.pdf)
+- [Python в web-разработке](https://github.com/vtriber/vtriber/tree/main/certificates/pyweb.pdf)
 
-- [SQL базы данных для разработчиков](https://github.com/vtriber/vtriber/certificates/sql.pdf)
+- [SQL базы данных для разработчиков](https://github.com/vtriber/vtriber/tree/main/certificates/sql.pdf)
 
-- [GIT - система контроля версий](https://github.com/vtriber/vtriber/certificates/git.pdf)
+- [GIT - система контроля версий](https://github.com/vtriber/vtriber/tree/main/certificates/git.pdf)
 
